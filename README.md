@@ -1,2 +1,2 @@
-# exemplo-junit-gradle
+# Projeto JUnit com Gradle
 Exemplo de projeto JUnit utilizando Gradle
